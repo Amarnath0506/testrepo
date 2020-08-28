@@ -1,9 +1,7 @@
 # Ignore the node_modules directory
 node_modules/
+amar/
 
-# Ignore Logs
-logs
-*.log
 
 # Ignore the build directory
 /dist
